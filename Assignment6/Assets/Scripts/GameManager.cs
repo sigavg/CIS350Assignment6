@@ -1,3 +1,7 @@
+/* Luke Lesimple
+ * Assignment 6
+ * Loads levels
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

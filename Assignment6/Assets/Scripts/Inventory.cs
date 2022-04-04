@@ -1,4 +1,8 @@
-﻿using System.Collections;
+﻿/* Luke Lesimple
+ * Assignment 6
+ * Inventory
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

@@ -1,3 +1,7 @@
+/* Luke Lesimple
+ * Assignment 6
+ * weapon attached to enemy
+ */
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
